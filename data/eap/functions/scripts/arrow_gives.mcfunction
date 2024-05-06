@@ -1,1 +1,1 @@
-
+give @p tipped_arrow[custom_name='{"bold":true,"color":"blue","italic":false,"text":"Electric Arrow","underlined":false}',potion_contents={custom_color:3900415,custom_effects:[{id:"minecraft:haste",amplifier:2,duration:1200,show_particles:1b},{id:"minecraft:glowing",amplifier:1,duration:1200}]}] 64
